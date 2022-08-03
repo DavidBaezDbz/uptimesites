@@ -24,7 +24,7 @@
     "slug": "santa-cruz",
     "status": "down",
     "uptime": "7.78%",
-    "uptimeDay": "82.90%",
+    "uptimeDay": "82.91%",
     "uptimeWeek": "11.84%",
     "uptimeMonth": "7.78%",
     "uptimeYear": "7.78%",
@@ -71,18 +71,16 @@
     "icon": "https://favicons.githubusercontent.com/www.esaludecopetrol.com",
     "slug": "esalud",
     "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-08-03": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
