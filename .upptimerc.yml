@@ -6,11 +6,11 @@ sites:
   - name: Heon
     url: https://www.heon.com.co/inicio
   - name: Santa Cruz
-    url: https://santacruz.heon.com.co/MenuHeon/#/seguridad/login/
+    url: https://santacruz.heon.com.co/
   - name: Foscal
     url: http://www.foscal.com.co/
-  - name: Ecopetrol
-    url: https://www.esaludecopetrol.com/autenticacion/logon.aspx
+  - name: Esalud
+    url: https://www.esaludecopetrol.com/
    
 assignees:
   - DavidBaezDbz
