@@ -6,8 +6,8 @@ sites:
   - name: Heon
     url: https://www.heon.com.co/inicio
   - name: Santa Cruz
-    url: https://santacruz.heon.com.co/
-  - name: Foscal
+    url: https://medcorvesaludqa.heon.com.co/
+  - name: MedcorvesaludQa
     url: http://www.foscal.com.co/
   - name: Esalud
     url: https://www.esaludecopetrol.com/
