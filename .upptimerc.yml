@@ -5,9 +5,9 @@ repo: uptimesites # The name of this repository
 sites:
   - name: Heon
     url: https://www.heon.com.co/inicio
-  - name: Santa Cruz
-    url: https://medcorvesaludqa.heon.com.co/
   - name: MedcorvesaludQa
+    url: https://medcorvesaludqa.heon.com.co/
+  - name: Foscal
     url: http://www.foscal.com.co/
   - name: Esalud
     url: https://www.esaludecopetrol.com/
