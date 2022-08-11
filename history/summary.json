@@ -34,7 +34,7 @@
     "timeMonth": 766,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2022-08-11": 75,
+      "2022-08-11": 600,
       "2022-08-10": 1440,
       "2022-08-09": 1440,
       "2022-08-08": 1440,
@@ -50,18 +50,20 @@
     "url": "http://www.foscal.com.co/",
     "icon": "https://favicons.githubusercontent.com/www.foscal.com.co",
     "slug": "foscal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 378,
     "timeDay": 223,
     "timeWeek": 386,
     "timeMonth": 378,
     "timeYear": 378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-11": 1
+    }
   },
   {
     "name": "Esalud",
