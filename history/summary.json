@@ -4,10 +4,10 @@
     "url": "https://www.heon.com.co/inicio",
     "icon": "https://icons.duckduckgo.com/ip3/www.heon.com.co.ico",
     "slug": "heon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1752,
@@ -15,7 +15,9 @@
     "timeWeek": 1653,
     "timeMonth": 1792,
     "timeYear": 1752,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-09": 1
+    }
   },
   {
     "name": "MedcorvesaludQa",
@@ -34,7 +36,7 @@
     "timeMonth": 1329,
     "timeYear": 1108,
     "dailyMinutesDown": {
-      "2022-10-09": 102,
+      "2022-10-09": 237,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
