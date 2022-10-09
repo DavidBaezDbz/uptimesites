@@ -4,9 +4,9 @@
     "url": "https://www.heon.com.co/inicio",
     "icon": "https://icons.duckduckgo.com/ip3/www.heon.com.co.ico",
     "slug": "heon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "95.76%",
+    "uptimeDay": "95.72%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
@@ -16,7 +16,7 @@
     "timeMonth": 1785,
     "timeYear": 1750,
     "dailyMinutesDown": {
-      "2022-10-09": 61
+      "2022-10-09": 62
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 1329,
     "timeYear": 1108,
     "dailyMinutesDown": {
-      "2022-10-09": 298,
+      "2022-10-09": 421,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
